@@ -1,13 +1,13 @@
 # 神舟战神T6-X5 黑苹果EFI
 ***
-## 配置详情
-电脑品牌：神舟战神
-型号：t6-x5
-CPU：i5-7300HQ
-核显：intel HD Graphics 630
-独显：GTX1050
-内存：16G 双通道DDR4（原装8g，自己又加了8g内存条，16g）
-硬盘：128g SSD + 1TB HDD
+## 我的配置详情
+* 电脑品牌：神舟战神
+* 型号：t6-x5
+* CPU：i5-7300HQ
+* 核显：intel HD Graphics 630
+* 独显：GTX1050（黑苹果无法驱动）
+* 内存：16G 双通道DDR4（原装8g，自己又加了8g内存条，16g）
+* 硬盘：128g SSD + 1TB HDD
 ## 版本：mac os catalina 10.15.6
 ## 10.14的也可以使用，但是bigsur未测试，建议不要升级系统
 感谢 csdn [丶乳酸君](https://blog.csdn.net/weixin_43811041)的efi，csdn原帖：https://blog.csdn.net/weixin_43811041/article/details/105933304#comments_12826154
