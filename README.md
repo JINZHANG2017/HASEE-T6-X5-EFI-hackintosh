@@ -26,8 +26,8 @@ sudo kextload -v AirportItlwm.kext
 提示 Requesting load of /Users/jin/Desktop/AirportItlwm.kext.
 /Users/jin/Desktop/AirportItlwm.kext loaded successfully (or already loaded).即加载成功
 ```
-* 如果开机后跑完代码黑屏，但是按按键有声音（已经进入系统），可能是亮度在最低状态，按ctrl+F1组合键即可亮屏，开机后调整亮度
-* 有一定几率开机没有声音，且无法调整，亲测重启可以解决，频率不定
+* 如果开机后跑完代码黑屏，但是按按键有声音（已经进入系统），可能是亮度在最低状态，按ctrl+F1组合键即可亮屏，开机后调整亮度（只出现过一次）
+* 有一定几率开机没有声音，且无法调整，亲测重启可以解决，频率不定（刚开始两周出现稍微多点，后面感觉越用越稳定，没有出现过了）
 * 其他的就是独显无法使用，这个基本无解
 
 
